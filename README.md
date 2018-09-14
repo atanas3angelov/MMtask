@@ -19,36 +19,36 @@ Dictionary:
 The file should contain categories and words, each on a new line. The categories are marked with an underscore symbol “_” - example “_football team”.
 
 Example:
-_Football teams
-Manchester United
-Arsenal
-Chelsea
-Liverpool
-FC Bayern München
-Juventus
-Real Madrid
-FC Barcelona
-Olympique de Marseille
-Paris Saint-Germain
-_Books
-In Search of Lost Time
-Don Quixote
-Ulysses
-The Great Gatsby
-Moby Dick
-Hamlet
-War and Peace
-The Odyssey
-_Programming principles
-Encapsulation
-Abstraction
-Inheritance
-Polymorphism
-KISS
-DRY
-Open Closed
-Single Responsibility
-Composition over inheritance
+_Football teams  
+Manchester United  
+Arsenal  
+Chelsea  
+Liverpool  
+FC Bayern München  
+Juventus  
+Real Madrid  
+FC Barcelona  
+Olympique de Marseille  
+Paris Saint-Germain  
+_Books  
+In Search of Lost Time  
+Don Quixote  
+Ulysses  
+The Great Gatsby  
+Moby Dick  
+Hamlet  
+War and Peace  
+The Odyssey  
+_Programming principles  
+Encapsulation  
+Abstraction  
+Inheritance  
+Polymorphism  
+KISS  
+DRY  
+Open Closed  
+Single Responsibility  
+Composition over inheritance  
 
 Game flow example:
 
