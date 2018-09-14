@@ -17,6 +17,7 @@ Requirements:
 
 Dictionary:
 The file should contain categories and words, each on a new line. The categories are marked with an underscore symbol “_” - example “_football team”.
+
 Example:
 _Football teams
 Manchester United
