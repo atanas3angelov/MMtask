@@ -82,3 +82,6 @@ Please choose a category:
 Football teams  
 Books  
 Programming principles  
+
+#The solution of the task
+Requires: Java 8+
