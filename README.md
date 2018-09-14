@@ -51,7 +51,7 @@ Composition over inheritance
 
 Game flow example:
 
-Please choose a category:
+'Please choose a category:
 Football teams
 Books
 Programming principles
@@ -80,4 +80,4 @@ Current score: 1
 Please choose a category:
 Football teams
 Books
-Programming principles
+Programming principles'
