@@ -18,7 +18,7 @@ Requirements:
 Dictionary:
 The file should contain categories and words, each on a new line. The categories are marked with an underscore symbol “_” - example “_football team”.
 
-Example:
+Example:  
 _Football teams  
 Manchester United  
 Arsenal  
@@ -52,33 +52,33 @@ Composition over inheritance
 
 Game flow example:
 
-`Please choose a category:
-Football teams
-Books
-Programming principles
->books
-Attempts left: 10
-Current word/phrase: _ _ _ _ _ _ _ _ _ _ _
-Please enter a letter:
-> k
-The word/phrase doesn’t have this letter.
-Attempts left: 9
-Current word/phrase: _ _ _ _ _ _ _ _ _ _ _
-Please enter a letter:
-> a
-Attempts left: 9
-Current word/phrase: _ a _ a _ _ _ _ a _ _
-Please enter a letter:
-> e
-Attempts left: 9
-Current word/phrase: _ a _ a _ _ _ e a_ e
-Please enter a letter:
-....
-Congratulations you have revealed the word/phrase:
-W a r a n d p e a c e
+Please choose a category:  
+Football teams  
+Books  
+Programming principles  
+`>`books  
+Attempts left: 10  
+Current word/phrase: _ _ _ _ _ _ _ _ _ _ _  
+Please enter a letter:  
+`>` k  
+The word/phrase doesn’t have this letter.  
+Attempts left: 9  
+Current word/phrase: _ _ _ _ _ _ _ _ _ _ _  
+Please enter a letter:  
+`>` a  
+Attempts left: 9  
+Current word/phrase: _ a _ a _ _ _ _ a _ _  
+Please enter a letter:  
+`>` e  
+Attempts left: 9  
+Current word/phrase: _ a _ a _ _ _ e a_ e  
+Please enter a letter:  
+....  
+Congratulations you have revealed the word/phrase:  
+W a r a n d p e a c e  
 
-Current score: 1
-Please choose a category:
-Football teams
-Books
-Programming principles`
+Current score: 1  
+Please choose a category:  
+Football teams  
+Books  
+Programming principles  
